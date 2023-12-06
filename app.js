@@ -9,3 +9,6 @@ hello('Martin');
 function loggedIn() {
 	return true;
 }
+function app() {
+	// login
+}
