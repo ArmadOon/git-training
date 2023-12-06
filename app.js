@@ -5,3 +5,7 @@ const hello = (name) => {
 };
 
 hello('Martin');
+
+function loggedIn() {
+	return true;
+}
